@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC0D6FAA-85D9-4EBF-8B6E-2EBF78CCD7D9}"
+	ProjectSection(SolutionItems) = preProject
+		add.php = add.php
+		index.php = index.php
+		login.php = login.php
+		view.php = view.php
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A950E18-0BB8-44FC-A4D5-6B16FEB0FF7A}
+	EndGlobalSection
+EndGlobal
